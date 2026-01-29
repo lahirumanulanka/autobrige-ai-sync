@@ -1,0 +1,90 @@
+[
+  {
+    "id": "S001",
+    "title": "Transparent Cost Structure",
+    "description": "Provide importers with clear, upfront pricing breakdown including all fees, duties, taxes, and shipping costs before transaction commitment. Build trust through transparency.",
+    "kpis": [
+      "% of users viewing full cost breakdown",
+      "Cost estimation accuracy >95%",
+      "User satisfaction score for pricing clarity"
+    ],
+    "priority": "High"
+  },
+  {
+    "id": "S002",
+    "title": "Trust and Verification System",
+    "description": "Implement robust verification mechanisms for suppliers and products including ratings, reviews, certifications, and compliance checks. Reduce fraud and build confidence.",
+    "kpis": [
+      "Number of verified suppliers",
+      "Fraud incident rate <1%",
+      "Trust score improvement"
+    ],
+    "priority": "High"
+  },
+  {
+    "id": "S003",
+    "title": "AI-Powered Recommendations",
+    "description": "Leverage machine learning to provide personalized supplier recommendations, optimal shipping routes, and product suggestions based on importer history and preferences.",
+    "kpis": [
+      "Recommendation acceptance rate >40%",
+      "Average time to find supplier reduced by 30%",
+      "User engagement with AI features"
+    ],
+    "priority": "Medium"
+  },
+  {
+    "id": "S004",
+    "title": "Importer Network Growth",
+    "description": "Expand the importer base through targeted marketing, partnerships, and referral programs. Focus on SME importers in key markets.",
+    "kpis": [
+      "New importer signups per month >500",
+      "Referral conversion rate >15%",
+      "Market penetration in target regions"
+    ],
+    "priority": "High"
+  },
+  {
+    "id": "S005",
+    "title": "Auction and Bidding Integration",
+    "description": "Enable competitive bidding for bulk import orders allowing suppliers to compete on price and terms. Create a dynamic marketplace with real-time negotiation.",
+    "kpis": [
+      "Number of active auctions per week",
+      "Average cost savings from bidding",
+      "Supplier participation rate in auctions"
+    ],
+    "priority": "Medium"
+  },
+  {
+    "id": "S006",
+    "title": "Enhanced Customer Support",
+    "description": "Provide 24/7 multilingual customer support through chatbots, live agents, and comprehensive help documentation. Reduce response times and improve issue resolution.",
+    "kpis": [
+      "Average response time <5 minutes",
+      "First contact resolution rate >80%",
+      "Customer satisfaction score >4.5/5"
+    ],
+    "priority": "Medium"
+  },
+  {
+    "id": "S007",
+    "title": "Faster Import Processing",
+    "description": "Streamline customs clearance, documentation, and logistics coordination to reduce total import time from order to delivery by 40%.",
+    "kpis": [
+      "Average processing time reduction",
+      "Customs clearance delays <5%",
+      "On-time delivery rate >90%"
+    ],
+    "priority": "High"
+  },
+  {
+    "id": "S008",
+    "title": "Marketing and Customer Retention",
+    "description": "Implement targeted marketing campaigns and loyalty programs to increase repeat business. Focus on building long-term relationships with importers.",
+    "kpis": [
+      "Customer retention rate >70%",
+      "Repeat order rate per importer",
+      "Marketing ROI >3:1"
+    ],
+    "priority": "Medium"
+  }
+]

@@ -1,0 +1,10 @@
+# Core dependencies for Strategy-Action Synchronization AI System
+streamlit==1.31.1
+pandas==2.2.0
+numpy==1.26.3
+scikit-learn==1.4.0
+sentence-transformers==2.3.1
+chromadb==0.4.22
+pydantic==2.5.3
+python-dotenv==1.0.1
+openai==1.10.0
