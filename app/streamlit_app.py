@@ -139,8 +139,16 @@ def main():
                 st.info(f"Loaded {len(strategies)} strategic objectives and {len(actions)} action tasks")
             
             with st.spinner("🤖 Analyzing alignment (this may take a minute)..."):
-                # Initialize alignment engine
-                engine = AlignmentEngine()
+                # Try to initialize real alignment engine, fall back to demo if needed
+                try:
+                    from src.alignment import AlignmentEngine
+                    engine = AlignmentEngine()
+                    using_demo = False
+                except Exception as e:
+                    st.warning("⚠️ Using demo mode (sentence transformer model not available). Results are simulated for demonstration.")
+                    from src.demo_alignment import DemoAlignmentEngine
+                    engine = DemoAlignmentEngine()
+                    using_demo = True
                 
                 # Perform analysis
                 results = engine.analyze_alignment(strategies, actions, top_k=top_k)
