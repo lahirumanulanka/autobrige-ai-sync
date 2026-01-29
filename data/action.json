@@ -1,0 +1,132 @@
+[
+  {
+    "id": "A1",
+    "title": "Develop Interactive Cost Calculator",
+    "description": "Build a real-time cost calculator that shows importers all fees, duties, and taxes as they input shipment details. Include breakdowns by cost category with explanatory tooltips.",
+    "owner": "Product Team",
+    "start_date": "2024-02-01",
+    "end_date": "2024-04-30",
+    "outputs": [
+      "Deployed cost calculator widget",
+      "User guide for cost calculations",
+      "API integration with customs database"
+    ]
+  },
+  {
+    "id": "A2",
+    "title": "Create Cost Transparency Documentation",
+    "description": "Develop comprehensive documentation explaining all cost components, calculation methods, and regulatory requirements. Make it accessible through the help center and in-app.",
+    "owner": "Content Team",
+    "start_date": "2024-01-15",
+    "end_date": "2024-03-15",
+    "outputs": [
+      "Cost transparency guide (PDF and online)",
+      "Video tutorials on cost calculations",
+      "FAQ section with 50+ common questions"
+    ]
+  },
+  {
+    "id": "A3",
+    "title": "Implement Customer Satisfaction Survey System",
+    "description": "Deploy automated surveys after key interactions to gather feedback on service quality, platform usability, and customer satisfaction. Use insights to drive continuous improvement.",
+    "owner": "Customer Success Team",
+    "start_date": "2024-02-15",
+    "end_date": "2024-04-15",
+    "outputs": [
+      "Automated survey system",
+      "Monthly satisfaction reports",
+      "Integration with CRM platform"
+    ]
+  },
+  {
+    "id": "A4",
+    "title": "Launch Proactive Customer Support Program",
+    "description": "Establish a proactive support approach where the team reaches out to customers before issues escalate. Monitor account activity and provide guidance during critical import milestones.",
+    "owner": "Support Team",
+    "start_date": "2024-03-01",
+    "end_date": "2024-06-01",
+    "outputs": [
+      "Support workflow automation",
+      "Customer health scoring system",
+      "Proactive outreach playbooks"
+    ]
+  },
+  {
+    "id": "A5",
+    "title": "Build Digital Onboarding Workflow",
+    "description": "Create a step-by-step digital onboarding process with document upload, verification, and approval workflows. Include progress tracking and automated notifications.",
+    "owner": "Engineering Team",
+    "start_date": "2024-01-20",
+    "end_date": "2024-03-31",
+    "outputs": [
+      "Digital onboarding portal",
+      "Document verification API",
+      "Onboarding analytics dashboard"
+    ]
+  },
+  {
+    "id": "A6",
+    "title": "Develop Onboarding Video Tutorial Series",
+    "description": "Produce short, engaging video tutorials that guide new importers through platform features, document requirements, and best practices. Make them available in multiple languages.",
+    "owner": "Marketing Team",
+    "start_date": "2024-02-01",
+    "end_date": "2024-04-01",
+    "outputs": [
+      "10 tutorial videos (3-5 min each)",
+      "Multilingual subtitles",
+      "Embedded help center integration"
+    ]
+  },
+  {
+    "id": "A7",
+    "title": "Create Auction Analytics Dashboard",
+    "description": "Build an interactive dashboard showing historical auction data, price trends, success rates, and market insights. Provide filtering by product category, time period, and region.",
+    "owner": "Data Team",
+    "start_date": "2024-03-01",
+    "end_date": "2024-06-30",
+    "outputs": [
+      "Analytics dashboard (web and mobile)",
+      "Data warehouse integration",
+      "Automated report generation"
+    ]
+  },
+  {
+    "id": "A8",
+    "title": "Implement Bidding Strategy Recommendation Engine",
+    "description": "Develop a machine learning model that analyzes historical auction outcomes and suggests optimal bidding strategies. Provide confidence scores and explanations.",
+    "owner": "AI/ML Team",
+    "start_date": "2024-04-01",
+    "end_date": "2024-08-31",
+    "outputs": [
+      "ML model for bid recommendations",
+      "A/B testing framework",
+      "User feedback collection system"
+    ]
+  },
+  {
+    "id": "A9",
+    "title": "Design Customer Communication Templates",
+    "description": "Create professional email and notification templates for all customer touchpoints including welcome messages, status updates, and follow-ups. Ensure consistent branding and tone.",
+    "owner": "Marketing Team",
+    "start_date": "2024-01-10",
+    "end_date": "2024-02-28",
+    "outputs": [
+      "20+ email templates",
+      "SMS notification templates",
+      "Brand guidelines for communications"
+    ]
+  },
+  {
+    "id": "A10",
+    "title": "Establish Monthly Customer Feedback Forums",
+    "description": "Organize monthly virtual forums where customers can share feedback, ask questions, and learn about new features. Use insights to inform product roadmap.",
+    "owner": "Product Team",
+    "start_date": "2024-02-01",
+    "end_date": "2024-12-31",
+    "outputs": [
+      "Monthly forum schedule",
+      "Recording and summary distribution",
+      "Feature request tracking system"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+# Strategy-Action Synchronization AI - Requirements
+# MSc Coursework Project
+
+# Web Framework
+streamlit==1.29.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Machine Learning
+scikit-learn==1.3.2
+sentence-transformers==2.2.2
+
+# Vector Database
+chromadb==0.4.18
+
+# Data Validation
+pydantic==2.5.2
+
+# Configuration Management
+python-dotenv==1.0.0

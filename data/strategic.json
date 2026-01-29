@@ -1,0 +1,46 @@
+[
+  {
+    "id": "S1",
+    "title": "Enhance Import Cost Transparency",
+    "description": "Provide importers with clear, detailed breakdowns of all costs associated with importing goods, including duties, taxes, shipping, and handling fees. This will build trust and enable better financial planning.",
+    "kpis": [
+      "95% of users report understanding their cost breakdown",
+      "Reduce cost-related queries by 40%",
+      "Achieve 4.5/5 average satisfaction rating on cost transparency"
+    ],
+    "priority": "High"
+  },
+  {
+    "id": "S2",
+    "title": "Strengthen Customer Trust and Engagement",
+    "description": "Build long-term relationships with importers through reliable service delivery, transparent communication, and proactive support. Establish AutoBridge as the preferred platform for import operations.",
+    "kpis": [
+      "Achieve 85% customer retention rate",
+      "Net Promoter Score (NPS) above 60",
+      "70% of customers use platform monthly"
+    ],
+    "priority": "High"
+  },
+  {
+    "id": "S3",
+    "title": "Streamline Importer Onboarding Process",
+    "description": "Simplify and accelerate the onboarding experience for new importers by reducing paperwork, providing clear guidance, and offering digital verification processes. Enable importers to start using the platform within 24 hours.",
+    "kpis": [
+      "Complete onboarding in under 2 hours",
+      "90% successful first-time document submission",
+      "Reduce onboarding support tickets by 50%"
+    ],
+    "priority": "Medium"
+  },
+  {
+    "id": "S4",
+    "title": "Expand Auction Data Analytics Capabilities",
+    "description": "Develop advanced analytics tools that help importers and stakeholders understand market trends, pricing patterns, and optimal bidding strategies based on historical auction data.",
+    "kpis": [
+      "Provide analytics dashboard to 100% of premium users",
+      "80% of users access analytics monthly",
+      "Improve bidding success rate by 25%"
+    ],
+    "priority": "Medium"
+  }
+]
