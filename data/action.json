@@ -1,0 +1,344 @@
+[
+  {
+    "id": "A001",
+    "title": "Build Cost Calculator API",
+    "description": "Develop RESTful API that calculates total landed costs including duties, taxes, shipping, and fees for any product-destination combination",
+    "owner": "Backend Team",
+    "start_date": "2024-01-15",
+    "end_date": "2024-03-01",
+    "outputs": ["API endpoint", "Documentation", "Unit tests"]
+  },
+  {
+    "id": "A002",
+    "title": "Implement Real-time Pricing Widget",
+    "description": "Create frontend widget displaying live cost breakdown with hover explanations for each fee component",
+    "owner": "Frontend Team",
+    "start_date": "2024-02-01",
+    "end_date": "2024-03-15",
+    "outputs": ["React component", "User guide"]
+  },
+  {
+    "id": "A003",
+    "title": "Supplier Verification Workflow",
+    "description": "Design and implement multi-step supplier verification process including document upload, background checks, and certification validation",
+    "owner": "Compliance Team",
+    "start_date": "2024-01-10",
+    "end_date": "2024-04-30",
+    "outputs": ["Verification dashboard", "Automated checks", "Audit trail"]
+  },
+  {
+    "id": "A004",
+    "title": "Product Review System",
+    "description": "Build product rating and review platform with moderation, verification of genuine buyers, and quality scoring",
+    "owner": "Product Team",
+    "start_date": "2024-02-15",
+    "end_date": "2024-05-01",
+    "outputs": ["Review interface", "Moderation tools", "Analytics"]
+  },
+  {
+    "id": "A005",
+    "title": "AI Recommendation Engine v1",
+    "description": "Develop machine learning model for supplier recommendations based on importer preferences, history, and success metrics",
+    "owner": "Data Science Team",
+    "start_date": "2024-01-20",
+    "end_date": "2024-06-30",
+    "outputs": ["ML model", "API integration", "Performance metrics"]
+  },
+  {
+    "id": "A006",
+    "title": "Personalization Dashboard",
+    "description": "Create personalized user dashboard showing recommended products, suppliers, and shipping options based on AI analysis",
+    "owner": "Frontend Team",
+    "start_date": "2024-03-01",
+    "end_date": "2024-05-15",
+    "outputs": ["Dashboard UI", "Integration with ML API"]
+  },
+  {
+    "id": "A007",
+    "title": "SME Importer Outreach Campaign",
+    "description": "Execute targeted digital marketing campaign focused on small-medium enterprise importers in Southeast Asia and Africa",
+    "owner": "Marketing Team",
+    "start_date": "2024-01-05",
+    "end_date": "2024-12-31",
+    "outputs": ["Marketing materials", "Campaign analytics", "Lead pipeline"]
+  },
+  {
+    "id": "A008",
+    "title": "Referral Program Platform",
+    "description": "Build referral tracking system with automated rewards, tracking dashboard, and integration with payment systems",
+    "owner": "Product Team",
+    "start_date": "2024-02-10",
+    "end_date": "2024-04-20",
+    "outputs": ["Referral portal", "Reward automation", "Analytics dashboard"]
+  },
+  {
+    "id": "A009",
+    "title": "Auction Platform Development",
+    "description": "Create real-time bidding platform for bulk orders with automated matching, bid management, and notification system",
+    "owner": "Backend Team",
+    "start_date": "2024-03-01",
+    "end_date": "2024-07-31",
+    "outputs": ["Auction engine", "Bidding interface", "Notification service"]
+  },
+  {
+    "id": "A010",
+    "title": "Bid Analytics Dashboard",
+    "description": "Develop analytics dashboard showing auction performance, pricing trends, and supplier competitiveness metrics",
+    "owner": "Analytics Team",
+    "start_date": "2024-05-01",
+    "end_date": "2024-08-15",
+    "outputs": ["Dashboard", "Reports", "API"]
+  },
+  {
+    "id": "A011",
+    "title": "24/7 Chatbot Implementation",
+    "description": "Deploy AI-powered multilingual chatbot for instant customer support with escalation to human agents",
+    "owner": "Support Team",
+    "start_date": "2024-01-15",
+    "end_date": "2024-03-30",
+    "outputs": ["Chatbot service", "Knowledge base", "Escalation workflow"]
+  },
+  {
+    "id": "A012",
+    "title": "Support Ticket Management System",
+    "description": "Implement comprehensive ticket tracking system with SLA monitoring, priority management, and customer communication",
+    "owner": "Support Team",
+    "start_date": "2024-02-01",
+    "end_date": "2024-04-15",
+    "outputs": ["Ticket system", "SLA dashboards", "Integration APIs"]
+  },
+  {
+    "id": "A013",
+    "title": "Customs Documentation Automation",
+    "description": "Automate generation and validation of customs documents including invoices, packing lists, and certificates of origin",
+    "owner": "Logistics Team",
+    "start_date": "2024-01-10",
+    "end_date": "2024-05-30",
+    "outputs": ["Document generator", "Validation engine", "Template library"]
+  },
+  {
+    "id": "A014",
+    "title": "Logistics Partner Integration",
+    "description": "Integrate with major shipping carriers and customs brokers for real-time tracking and automated clearance",
+    "owner": "Integration Team",
+    "start_date": "2024-02-15",
+    "end_date": "2024-06-30",
+    "outputs": ["API integrations", "Tracking dashboard", "Documentation"]
+  },
+  {
+    "id": "A015",
+    "title": "Email Marketing Automation",
+    "description": "Set up automated email campaigns for onboarding, engagement, and retention with A/B testing and segmentation",
+    "owner": "Marketing Team",
+    "start_date": "2024-01-20",
+    "end_date": "2024-03-15",
+    "outputs": ["Email templates", "Automation workflows", "Analytics"]
+  },
+  {
+    "id": "A016",
+    "title": "Loyalty Rewards Program",
+    "description": "Launch points-based loyalty program rewarding repeat importers with discounts, priority support, and exclusive features",
+    "owner": "Product Team",
+    "start_date": "2024-03-01",
+    "end_date": "2024-05-30",
+    "outputs": ["Loyalty platform", "Rewards catalog", "Redemption system"]
+  },
+  {
+    "id": "A017",
+    "title": "Multi-currency Payment Gateway",
+    "description": "Integrate multiple payment processors supporting 50+ currencies with automatic conversion and fee optimization",
+    "owner": "Payments Team",
+    "start_date": "2024-02-01",
+    "end_date": "2024-04-30",
+    "outputs": ["Payment integration", "Currency converter", "Fee calculator"]
+  },
+  {
+    "id": "A018",
+    "title": "Insurance Quote Integration",
+    "description": "Partner with insurance providers to offer instant cargo insurance quotes and purchase within platform",
+    "owner": "Partnerships Team",
+    "start_date": "2024-03-15",
+    "end_date": "2024-06-30",
+    "outputs": ["Insurance API", "Quote interface", "Policy management"]
+  },
+  {
+    "id": "A019",
+    "title": "Mobile App Development",
+    "description": "Build native iOS and Android apps with core features: order tracking, cost calculation, supplier search",
+    "owner": "Mobile Team",
+    "start_date": "2024-04-01",
+    "end_date": "2024-09-30",
+    "outputs": ["iOS app", "Android app", "App store listings"]
+  },
+  {
+    "id": "A020",
+    "title": "Data Privacy Compliance",
+    "description": "Implement GDPR, CCPA compliance including consent management, data export, and deletion capabilities",
+    "owner": "Legal Team",
+    "start_date": "2024-01-05",
+    "end_date": "2024-03-31",
+    "outputs": ["Compliance documentation", "Privacy controls", "Audit logs"]
+  },
+  {
+    "id": "A021",
+    "title": "Advanced Search and Filtering",
+    "description": "Enhance product and supplier search with AI-powered semantic search, filters, and saved searches",
+    "owner": "Search Team",
+    "start_date": "2024-02-20",
+    "end_date": "2024-05-15",
+    "outputs": ["Search engine", "Filter UI", "Search analytics"]
+  },
+  {
+    "id": "A022",
+    "title": "Supplier Performance Scoring",
+    "description": "Develop automated scoring system evaluating suppliers on delivery time, quality, communication, and compliance",
+    "owner": "Analytics Team",
+    "start_date": "2024-03-01",
+    "end_date": "2024-05-30",
+    "outputs": ["Scoring algorithm", "Performance dashboard", "Reports"]
+  },
+  {
+    "id": "A023",
+    "title": "User Onboarding Optimization",
+    "description": "Redesign onboarding flow with interactive tutorials, progress tracking, and personalized setup recommendations",
+    "owner": "Product Team",
+    "start_date": "2024-02-10",
+    "end_date": "2024-04-15",
+    "outputs": ["Onboarding flow", "Tutorial content", "A/B test results"]
+  },
+  {
+    "id": "A024",
+    "title": "API Rate Limiting and Security",
+    "description": "Implement rate limiting, API key management, and security monitoring to protect platform from abuse",
+    "owner": "DevOps Team",
+    "start_date": "2024-01-15",
+    "end_date": "2024-03-01",
+    "outputs": ["Rate limiter", "Security dashboard", "API keys management"]
+  },
+  {
+    "id": "A025",
+    "title": "Business Intelligence Dashboard",
+    "description": "Create executive dashboard with key metrics: revenue, user growth, transaction volume, and retention rates",
+    "owner": "Analytics Team",
+    "start_date": "2024-01-20",
+    "end_date": "2024-03-30",
+    "outputs": ["BI dashboard", "Automated reports", "Data warehouse"]
+  },
+  {
+    "id": "A026",
+    "title": "Social Media Integration",
+    "description": "Enable social sharing of products and supplier profiles, build community features for importer networking",
+    "owner": "Marketing Team",
+    "start_date": "2024-03-15",
+    "end_date": "2024-06-01",
+    "outputs": ["Social share buttons", "Community forum", "Social analytics"]
+  },
+  {
+    "id": "A027",
+    "title": "Quality Assurance Testing Suite",
+    "description": "Develop comprehensive automated testing covering unit, integration, and end-to-end scenarios",
+    "owner": "QA Team",
+    "start_date": "2024-01-10",
+    "end_date": "2024-04-30",
+    "outputs": ["Test automation framework", "Test coverage reports", "CI/CD integration"]
+  },
+  {
+    "id": "A028",
+    "title": "Sustainability Metrics Tracking",
+    "description": "Track and display carbon footprint, sustainable sourcing, and environmental impact metrics for importers",
+    "owner": "Sustainability Team",
+    "start_date": "2024-04-01",
+    "end_date": "2024-07-31",
+    "outputs": ["Carbon calculator", "Sustainability scores", "Green supplier directory"]
+  },
+  {
+    "id": "A029",
+    "title": "Predictive Demand Analytics",
+    "description": "Build ML models to forecast import demand trends, seasonal patterns, and market opportunities",
+    "owner": "Data Science Team",
+    "start_date": "2024-03-15",
+    "end_date": "2024-08-30",
+    "outputs": ["Forecasting models", "Demand reports", "API endpoints"]
+  },
+  {
+    "id": "A030",
+    "title": "Contract Management System",
+    "description": "Digital contract creation, e-signing, storage, and renewal tracking for importer-supplier agreements",
+    "owner": "Legal Tech Team",
+    "start_date": "2024-02-20",
+    "end_date": "2024-06-15",
+    "outputs": ["Contract templates", "E-signature integration", "Contract repository"]
+  },
+  {
+    "id": "A031",
+    "title": "Shipping Route Optimization",
+    "description": "AI-powered route planning considering cost, speed, reliability, and environmental impact",
+    "owner": "Logistics AI Team",
+    "start_date": "2024-03-01",
+    "end_date": "2024-07-15",
+    "outputs": ["Route optimizer", "Cost comparison tool", "Environmental impact calculator"]
+  },
+  {
+    "id": "A032",
+    "title": "Trade Compliance Database",
+    "description": "Maintain up-to-date database of tariffs, trade agreements, sanctions, and import restrictions by country",
+    "owner": "Compliance Team",
+    "start_date": "2024-01-15",
+    "end_date": "2024-12-31",
+    "outputs": ["Compliance database", "Alert system", "API access"]
+  },
+  {
+    "id": "A033",
+    "title": "Warehouse Network Integration",
+    "description": "Connect with warehousing partners for inventory storage, consolidation, and last-mile delivery",
+    "owner": "Logistics Team",
+    "start_date": "2024-04-01",
+    "end_date": "2024-08-31",
+    "outputs": ["Warehouse API", "Inventory management", "Delivery coordination"]
+  },
+  {
+    "id": "A034",
+    "title": "Customer Success Program",
+    "description": "Establish dedicated customer success team for high-value importers with personalized support and strategic guidance",
+    "owner": "Customer Success Team",
+    "start_date": "2024-02-01",
+    "end_date": "2024-04-30",
+    "outputs": ["Success playbooks", "Account management tools", "Health score tracking"]
+  },
+  {
+    "id": "A035",
+    "title": "Fraud Detection System",
+    "description": "Machine learning-based fraud detection monitoring transactions, user behavior, and supplier activities",
+    "owner": "Security Team",
+    "start_date": "2024-02-15",
+    "end_date": "2024-06-30",
+    "outputs": ["Fraud detection models", "Alert system", "Investigation dashboard"]
+  },
+  {
+    "id": "A036",
+    "title": "Quarterly Business Review Reports",
+    "description": "Generate automated quarterly reports for importers showing spending analysis, savings opportunities, and performance",
+    "owner": "Analytics Team",
+    "start_date": "2024-03-01",
+    "end_date": "2024-05-15",
+    "outputs": ["Report templates", "Automated generation", "Delivery system"]
+  },
+  {
+    "id": "A037",
+    "title": "Help Center Knowledge Base",
+    "description": "Create comprehensive searchable knowledge base with articles, videos, and FAQs in multiple languages",
+    "owner": "Support Team",
+    "start_date": "2024-01-25",
+    "end_date": "2024-04-30",
+    "outputs": ["Knowledge base platform", "Content library", "Search functionality"]
+  },
+  {
+    "id": "A038",
+    "title": "Promotional Campaign Engine",
+    "description": "Build system for creating, scheduling, and tracking promotional offers, discounts, and special campaigns",
+    "owner": "Marketing Team",
+    "start_date": "2024-02-05",
+    "end_date": "2024-04-20",
+    "outputs": ["Campaign management tool", "Promo code generator", "Performance tracking"]
+  }
+]
